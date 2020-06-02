@@ -1,5 +1,5 @@
 # project
-<!DOCTYPE html> 
+
 <html>
 <head>
 	<title>Lost and Found</title>
