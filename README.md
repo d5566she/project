@@ -52,7 +52,7 @@
 	<div class="content">Choose your identity</div>
 	<div class="choice">
 		<div class="box">
-			<div><a href="file:///C:/Users/d5566/Desktop/project/findthing.htm">I'm finding things</a></div>
+			<div><a href="https://d5566she.github.io/findthing/">I'm finding things</a></div>
 		</div>
 		<div class="box">
 			<div><a href="file:///C:/Users/d5566/Desktop/project/findowner.htm">I'm finding owners</a></div>
