@@ -52,10 +52,10 @@
 	<div class="content">Choose your identity</div>
 	<div class="choice">
 		<div class="box">
-			<div><a href="https://d5566she.github.io/findthing/">I'm finding things</a></div>
+			<div font-color="white"><a href="https://d5566she.github.io/findthing/">I'm finding things</a></div>
 		</div>
 		<div class="box">
-			<div><a href="https://d5566she.github.io/findowner/">I'm finding owners</a></div>
+			<div font-color><a href="https://d5566she.github.io/findowner/">I'm finding owners</a></div>
 		</div>	
 	
 	</div>
