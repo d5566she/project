@@ -14,7 +14,7 @@
 		width:320px;margin-left:auto;margin-right:auto;	align:center
 	}
 	.box{
-		width:300px;padding:15px;margin:15px;background-color:white; display:inline-block; vertical-align:top;
+		width:300px;padding:15px;margin:15px;background-color:blue; display:inline-block; vertical-align:top;
 	}
 	.pic{
     width: 150px;
